@@ -1,0 +1,22 @@
+/* .d-flex {
+    margin-left: 480px;
+} */
+.nav {
+    background-color: rgb(79, 84, 107);
+}
+
+.title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#inputField {
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+#btn1 {
+    width: 60px;
+    height: 30px;
+    border-radius: 10px;
+}

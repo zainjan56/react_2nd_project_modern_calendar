@@ -1,0 +1,69 @@
+.searchResult {
+    background-color: rgb(48, 54, 81);
+    border-radius: 10px;
+}
+
+#today {
+    text-align: center;
+    color: white;
+}
+
+#date {
+    text-align: center;
+    color: white;
+    margin-top: -15px;
+}
+
+.sunrise {
+    width: 250px;
+    height: 280px;
+    margin-left: 50px;
+}
+
+.sundown {
+    width: 250px;
+    height: 280px;
+    float: right;
+    margin-top: -280px;
+    margin-right: 50px;
+}
+
+.sun1 {
+    color: white;
+    text-align: center;
+}
+
+.sunicon1 {
+    margin-left: 195px;
+    color: yellow;
+}
+
+#dawn {
+    margin-top: -10px;
+    color: rgb(114, 122, 157);
+}
+
+#para1 {
+    color: rgb(180, 193, 236);
+}
+
+.footer {
+    background-color: rgb(172, 174, 178);
+}
+
+.details {
+    text-align: center;
+}
+
+ul i{
+    margin: 20px;
+    cursor: pointer;
+}
+
+.media {
+    justify-content: center;
+}
+
+.media i {
+    margin: 10px;
+}
